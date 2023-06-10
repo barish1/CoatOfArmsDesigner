@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="38.381847 65.51563 364.21875 436.5" width="364.21875" height="436.5">
+  <defs>
+    <clipPath id="artboard_clip_path">
+      <path d="M 38.381847 65.51563 L 402.53773 65.51563 C 402.53773 65.51563 402.6006 108.24096 402.6006 211.2844 C 402.6006 314.32785 316.7932 434.629 220.39472 502.0156 C 123.9309 434.629 38.437823 314.8305 38.437823 211.2844 C 38.437823 107.7383 38.381847 65.51563 38.381847 65.51563 Z"/>
+    </clipPath>
+  </defs>
+  <g id="Per_Pale_and_Per_Fess_Embattled" stroke-dasharray="none" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1">
+    <title>Per Pale and Per Fess Embattled</title>
+    <g id="Fields_Master_layer" clip-path="url(#artboard_clip_path)">
+      <title>Master layer</title>
+      <g id="Graphic_3">
+        <path d="M 39.361014 66.5 L 401.5485 66.5 C 401.5485 66.5 401.611 109 401.611 211.5 C 401.611 314 316.26745 433.66667 220.39004 500.6979 C 124.44764 433.66667 39.416687 314.5 39.416687 211.5 C 39.416687 108.5 39.361014 66.5 39.361014 66.5 Z" fill="#f21e1e"/>
+        <path d="M 39.361014 66.5 L 401.5485 66.5 C 401.5485 66.5 401.611 109 401.611 211.5 C 401.611 314 316.26745 433.66667 220.39004 500.6979 C 124.44764 433.66667 39.416687 314.5 39.416687 211.5 C 39.416687 108.5 39.361014 66.5 39.361014 66.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="miter" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Per_Pale_and_Per_Fess_Embattled_Layer_3" clip-path="url(#artboard_clip_path)">
+      <title>Layer 3</title>
+      <g id="Graphic_6">
+        <path d="M 220.5 229.5 L 202.5 229.5 L 202.5 261 L 166.5 261 L 166.5 229.5 L 130.5 229.5 L 130.5 261 L 94.5 261 L 94.5 229.5 L 58.5 229.5 L 58.5 261 L 45.42849 261 C 66.40588 350.6721 139.49093 444.2023 220.32415 500.6979 C 220.38277 500.6569 220.4414 500.6159 220.5 500.57486 Z" fill="#e1e1e1"/>
+        <path d="M 220.5 229.5 L 202.5 229.5 L 202.5 261 L 166.5 261 L 166.5 229.5 L 130.5 229.5 L 130.5 261 L 94.5 261 L 94.5 229.5 L 58.5 229.5 L 58.5 261 L 45.42849 261 C 66.40588 350.6721 139.49093 444.2023 220.32415 500.6979 C 220.38277 500.6569 220.4414 500.6159 220.5 500.57486 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(36 529)" fill="black">
+          <tspan font-family="Cochin" font-size="12" fill="black" x="0" y="11">Equal field division. </tspan>
+          <tspan font-family="Cochin" font-size="12" fill="black" x="0" y="30">May use any two tinctures, except sable and </tspan>
+          <tspan font-family="Cochin" font-size="12" fill="black" x="0" y="44">purpure or sable and azure.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 395.40742 260.99996 C 399.3575 244.25555 401.47917 227.6643 401.47917 211.5 C 401.47917 109 401.41667 66.5 401.41667 66.5 L 220.5 66.5 L 220.5 229.5 L 238.5 229.5 L 238.5 261 L 274.5 261 L 274.5 229.5 L 310.5 229.5 L 310.5 261 L 346.5 261 L 346.5 229.5 L 382.5 229.5 L 382.5 261 Z" fill="#e1e1e1"/>
+        <path d="M 395.40742 260.99996 C 399.3575 244.25555 401.47917 227.6643 401.47917 211.5 C 401.47917 109 401.41667 66.5 401.41667 66.5 L 220.5 66.5 L 220.5 229.5 L 238.5 229.5 L 238.5 261 L 274.5 261 L 274.5 229.5 L 310.5 229.5 L 310.5 261 L 346.5 261 L 346.5 229.5 L 382.5 229.5 L 382.5 261 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
